@@ -1,0 +1,25 @@
+*{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.sort-btn {
+    background-color: rgb(222, 80, 80) !important;
+    color:white !important;
+  }
+  
+  
+  .blog-btn{
+      background-color: rgb(210, 219, 222) !important;
+      color: black !important;
+  }
+  
+ 
+     
+    .btn-container:hover {
+        background-color: rgb(222, 80, 80);
+        color:white;
+      }
+  
+   
+  
+   
